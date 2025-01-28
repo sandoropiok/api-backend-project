@@ -1,0 +1,1602 @@
+[
+    {
+      "id": "a8428f405eaa8fbed9a820ec",
+      "model": "LeBaron",
+      "manufacturer": "Hyundai",
+      "color": "mint green",
+      "fuel": "Diesel",
+      "registrationNumber": "FW28SZY"
+    },
+    {
+      "id": "7dc179d864477747cae59ca3",
+      "model": "V90",
+      "manufacturer": "Land Rover",
+      "color": "sky blue",
+      "fuel": "Electric",
+      "registrationNumber": "CK48GAA"
+    },
+    {
+      "id": "ea5fafffd4bbcbd4f2545339",
+      "model": "Cruze",
+      "manufacturer": "Porsche",
+      "color": "indigo",
+      "fuel": "Hybrid",
+      "registrationNumber": "DT60MIB"
+    },
+    {
+      "id": "9c0ea6b5967bc306385cb106",
+      "model": "Corvette",
+      "manufacturer": "Audi",
+      "color": "violet",
+      "fuel": "Electric",
+      "registrationNumber": "FF57OBM"
+    },
+    {
+      "id": "d3a7fdb7328a079c701d5d3f",
+      "model": "Taurus",
+      "manufacturer": "BMW",
+      "color": "violet",
+      "fuel": "Hybrid",
+      "registrationNumber": "ZK52XUH"
+    },
+    {
+      "id": "f10bb491e4a3e05b9f46395e",
+      "model": "Malibu",
+      "manufacturer": "Nissan",
+      "color": "salmon",
+      "fuel": "Gasoline",
+      "registrationNumber": "NZ96HIC"
+    },
+    {
+      "id": "dad663ee86526a6adfb4bcda",
+      "model": "2",
+      "manufacturer": "Volvo",
+      "color": "plum",
+      "fuel": "Hybrid",
+      "registrationNumber": "NA28CBV"
+    },
+    {
+      "id": "2ede0dbb8b638ce15b7d156d",
+      "model": "Expedition",
+      "manufacturer": "Aston Martin",
+      "color": "mint green",
+      "fuel": "Electric",
+      "registrationNumber": "FC52VGB"
+    },
+    {
+      "id": "4e5b5ba347b22fdf8ef4baeb",
+      "model": "Camaro",
+      "manufacturer": "Chrysler",
+      "color": "sky blue",
+      "fuel": "Diesel",
+      "registrationNumber": "KJ72PJP"
+    },
+    {
+      "id": "b6eeea104b0079e69bfc373f",
+      "model": "Fiesta",
+      "manufacturer": "Cadillac",
+      "color": "magenta",
+      "fuel": "Hybrid",
+      "registrationNumber": "VT20BFV"
+    },
+    {
+      "id": "4dd83a369c3d9a03babadf8c",
+      "model": "Model 3",
+      "manufacturer": "Mini",
+      "color": "black",
+      "fuel": "Gasoline",
+      "registrationNumber": "JG21CJX"
+    },
+    {
+      "id": "d8cadad209edcd8dbacd83a1",
+      "model": "Jetta",
+      "manufacturer": "Fiat",
+      "color": "purple",
+      "fuel": "Diesel",
+      "registrationNumber": "DC91ACA"
+    },
+    {
+      "id": "71ba9da81a62adbc22e1e643",
+      "model": "Fiesta",
+      "manufacturer": "Audi",
+      "color": "lavender",
+      "fuel": "Electric",
+      "registrationNumber": "LO58AGZ"
+    },
+    {
+      "id": "a7bc6d80d5d1ef95a5b4c0d3",
+      "model": "Taurus",
+      "manufacturer": "Land Rover",
+      "color": "black",
+      "fuel": "Hybrid",
+      "registrationNumber": "UL25TFW"
+    },
+    {
+      "id": "0eeaefdd2aadbc5af6fd3a1e",
+      "model": "Camry",
+      "manufacturer": "Bentley",
+      "color": "pink",
+      "fuel": "Gasoline",
+      "registrationNumber": "UN04YBW"
+    },
+    {
+      "id": "5eaa30f0c63b33bd22e4d5e9",
+      "model": "A8",
+      "manufacturer": "BMW",
+      "color": "black",
+      "fuel": "Diesel",
+      "registrationNumber": "LY60ATZ"
+    },
+    {
+      "id": "05eafac4fcadddadda0babdc",
+      "model": "A8",
+      "manufacturer": "Audi",
+      "color": "violet",
+      "fuel": "Electric",
+      "registrationNumber": "OY01SKQ"
+    },
+    {
+      "id": "4cdedd67d0063d038dc0c4f6",
+      "model": "Prius",
+      "manufacturer": "Chevrolet",
+      "color": "mint green",
+      "fuel": "Hybrid",
+      "registrationNumber": "BJ87BOY"
+    },
+    {
+      "id": "7d7df7dbfaa53bc6cac59de7",
+      "model": "Spyder",
+      "manufacturer": "Honda",
+      "color": "blue",
+      "fuel": "Gasoline",
+      "registrationNumber": "PD02IVT"
+    },
+    {
+      "id": "16bf43238fd3472760e96294",
+      "model": "Taurus",
+      "manufacturer": "Nissan",
+      "color": "orange",
+      "fuel": "Hybrid",
+      "registrationNumber": "OX03ONP"
+    },
+    {
+      "id": "a70cbf50e8c2ecbbf818e205",
+      "model": "Prius",
+      "manufacturer": "Volkswagen",
+      "color": "ivory",
+      "fuel": "Hybrid",
+      "registrationNumber": "CE69ZYM"
+    },
+    {
+      "id": "93bca51ca47a5c0e45a3e0f8",
+      "model": "Fortwo",
+      "manufacturer": "Tesla",
+      "color": "red",
+      "fuel": "Hybrid",
+      "registrationNumber": "KP61TTU"
+    },
+    {
+      "id": "6bb5cd70d280ebd1ce25bbeb",
+      "model": "Explorer",
+      "manufacturer": "BMW",
+      "color": "pink",
+      "fuel": "Gasoline",
+      "registrationNumber": "XR96STU"
+    },
+    {
+      "id": "daa40d070bb659ec8ffb417d",
+      "model": "Spyder",
+      "manufacturer": "Kia",
+      "color": "orchid",
+      "fuel": "Gasoline",
+      "registrationNumber": "MJ86KAL"
+    },
+    {
+      "id": "ad0c2bb0e2abec6ae1acbfb9",
+      "model": "Camry",
+      "manufacturer": "Chevrolet",
+      "color": "sky blue",
+      "fuel": "Diesel",
+      "registrationNumber": "AY96VXI"
+    },
+    {
+      "id": "d5f23d5fb56e6f18828cbe5f",
+      "model": "A4",
+      "manufacturer": "Bugatti",
+      "color": "indigo",
+      "fuel": "Diesel",
+      "registrationNumber": "KI67WLL"
+    },
+    {
+      "id": "fa43a8e4bb99ed09d6c2b8a7",
+      "model": "Expedition",
+      "manufacturer": "Jeep",
+      "color": "magenta",
+      "fuel": "Gasoline",
+      "registrationNumber": "CV56KLY"
+    },
+    {
+      "id": "2899d8a19d400bb8cca0fcfd",
+      "model": "Spyder",
+      "manufacturer": "Fiat",
+      "color": "black",
+      "fuel": "Hybrid",
+      "registrationNumber": "MV18POR"
+    },
+    {
+      "id": "765af9b5a4099d34ce16bdd1",
+      "model": "Sentra",
+      "manufacturer": "Maserati",
+      "color": "mint green",
+      "fuel": "Electric",
+      "registrationNumber": "ME02GIV"
+    },
+    {
+      "id": "c52bfdfeca42a8e9b480aaaf",
+      "model": "Charger",
+      "manufacturer": "Ferrari",
+      "color": "grey",
+      "fuel": "Hybrid",
+      "registrationNumber": "UA41ALL"
+    },
+    {
+      "id": "487c31bbbf5ffcbabc9cbea6",
+      "model": "Malibu",
+      "manufacturer": "Jaguar",
+      "color": "gold",
+      "fuel": "Electric",
+      "registrationNumber": "HS39BQZ"
+    },
+    {
+      "id": "9dd9eb974b82bc8f5f63e574",
+      "model": "Sentra",
+      "manufacturer": "Dodge",
+      "color": "green",
+      "fuel": "Gasoline",
+      "registrationNumber": "OD24PIK"
+    },
+    {
+      "id": "7cdcdcf767b27fabcfdbbfed",
+      "model": "Prius",
+      "manufacturer": "Cadillac",
+      "color": "white",
+      "fuel": "Diesel",
+      "registrationNumber": "ML75TEO"
+    },
+    {
+      "id": "5eddc785fd31dd5e1c66aabb",
+      "model": "Golf",
+      "manufacturer": "Toyota",
+      "color": "black",
+      "fuel": "Gasoline",
+      "registrationNumber": "SO84LTI"
+    },
+    {
+      "id": "5c92fb4aaf5da07acbdbc3ba",
+      "model": "Focus",
+      "manufacturer": "Volvo",
+      "color": "turquoise",
+      "fuel": "Gasoline",
+      "registrationNumber": "UI06KGB"
+    },
+    {
+      "id": "d5bcb3e8f18ccc3fb63a52ac",
+      "model": "Camry",
+      "manufacturer": "Maserati",
+      "color": "lavender",
+      "fuel": "Diesel",
+      "registrationNumber": "PY72XMT"
+    },
+    {
+      "id": "ab6b98c3efff3ddec45afba0",
+      "model": "Model T",
+      "manufacturer": "Polestar",
+      "color": "turquoise",
+      "fuel": "Hybrid",
+      "registrationNumber": "OQ06AXS"
+    },
+    {
+      "id": "da151eab6f7b2ca3ecad8139",
+      "model": "Element",
+      "manufacturer": "Rolls Royce",
+      "color": "gold",
+      "fuel": "Electric",
+      "registrationNumber": "WW68TZM"
+    },
+    {
+      "id": "49daf6dcbd98edfafc5dd2fd",
+      "model": "Land Cruiser",
+      "manufacturer": "Volvo",
+      "color": "white",
+      "fuel": "Electric",
+      "registrationNumber": "XQ68ZHG"
+    },
+    {
+      "id": "6a81f7d1efcfd999c874ce3d",
+      "model": "Altima",
+      "manufacturer": "Mazda",
+      "color": "lime",
+      "fuel": "Gasoline",
+      "registrationNumber": "CP86PPG"
+    },
+    {
+      "id": "00400debeaa3c7f0db5f0e61",
+      "model": "Golf",
+      "manufacturer": "Rolls Royce",
+      "color": "silver",
+      "fuel": "Gasoline",
+      "registrationNumber": "IA03YYH"
+    },
+    {
+      "id": "0d7cb9cec5e419b1abac7ecb",
+      "model": "Impala",
+      "manufacturer": "Fiat",
+      "color": "violet",
+      "fuel": "Hybrid",
+      "registrationNumber": "TN14QRN"
+    },
+    {
+      "id": "bbd22b59ffca5af8ef2ef5c5",
+      "model": "Model Y",
+      "manufacturer": "Maserati",
+      "color": "silver",
+      "fuel": "Electric",
+      "registrationNumber": "DP56ITE"
+    },
+    {
+      "id": "9c3feee7f0bc5cb4e4aabfed",
+      "model": "Ranchero",
+      "manufacturer": "Bugatti",
+      "color": "maroon",
+      "fuel": "Hybrid",
+      "registrationNumber": "VE57AZK"
+    },
+    {
+      "id": "5f9c864943aa5ba888f1ee7b",
+      "model": "911",
+      "manufacturer": "Chevrolet",
+      "color": "indigo",
+      "fuel": "Electric",
+      "registrationNumber": "YZ32MQH"
+    },
+    {
+      "id": "3c11b1fdbaccdfaaea7bf48b",
+      "model": "Camry",
+      "manufacturer": "Audi",
+      "color": "lavender",
+      "fuel": "Electric",
+      "registrationNumber": "JZ32TSD"
+    },
+    {
+      "id": "80216cefefaf00b0c46ee6fa",
+      "model": "Mercielago",
+      "manufacturer": "Bugatti",
+      "color": "tan",
+      "fuel": "Gasoline",
+      "registrationNumber": "GQ06XGM"
+    },
+    {
+      "id": "1449cc0d55ffaad62c6f3e4b",
+      "model": "Model S",
+      "manufacturer": "Ferrari",
+      "color": "fuchsia",
+      "fuel": "Electric",
+      "registrationNumber": "FB40EHX"
+    },
+    {
+      "id": "a4eafecde74ff22bfb76b6de",
+      "model": "Taurus",
+      "manufacturer": "Mercedes Benz",
+      "color": "olive",
+      "fuel": "Gasoline",
+      "registrationNumber": "AJ33LBA"
+    },
+    {
+      "id": "1adc8cbe27ad6abefd659aab",
+      "model": "Charger",
+      "manufacturer": "Mercedes Benz",
+      "color": "mint green",
+      "fuel": "Gasoline",
+      "registrationNumber": "GX66KRU"
+    },
+    {
+      "id": "fd93c30be22c5eedf0c49401",
+      "model": "LeBaron",
+      "manufacturer": "Volkswagen",
+      "color": "black",
+      "fuel": "Gasoline",
+      "registrationNumber": "UP84IVH"
+    },
+    {
+      "id": "a6c6b0bcf9fb6aa54fdfd2ee",
+      "model": "Grand Cherokee",
+      "manufacturer": "Maserati",
+      "color": "purple",
+      "fuel": "Gasoline",
+      "registrationNumber": "HO48YCF"
+    },
+    {
+      "id": "85e2bde77afad333bcb62fbb",
+      "model": "Countach",
+      "manufacturer": "Chrysler",
+      "color": "orchid",
+      "fuel": "Diesel",
+      "registrationNumber": "QB12JAW"
+    },
+    {
+      "id": "dcc5eb0b206cb3c17703f99b",
+      "model": "Colorado",
+      "manufacturer": "Bentley",
+      "color": "tan",
+      "fuel": "Gasoline",
+      "registrationNumber": "QB11BTZ"
+    },
+    {
+      "id": "c44c57bfb37f65d48d66597e",
+      "model": "Spyder",
+      "manufacturer": "Toyota",
+      "color": "pink",
+      "fuel": "Electric",
+      "registrationNumber": "MD10HPU"
+    },
+    {
+      "id": "b139d5fc2a9f062de83d21ec",
+      "model": "XC90",
+      "manufacturer": "Mini",
+      "color": "blue",
+      "fuel": "Diesel",
+      "registrationNumber": "XV66EKK"
+    },
+    {
+      "id": "d647e897a8b443f2ff9a30c6",
+      "model": "Model T",
+      "manufacturer": "Jeep",
+      "color": "azure",
+      "fuel": "Gasoline",
+      "registrationNumber": "RL94OCH"
+    },
+    {
+      "id": "d44c13b529038d7cdff2f8bd",
+      "model": "Camry",
+      "manufacturer": "Mazda",
+      "color": "azure",
+      "fuel": "Diesel",
+      "registrationNumber": "UB28YTN"
+    },
+    {
+      "id": "0e6db591ddd89e5b7edf2dfd",
+      "model": "CX-9",
+      "manufacturer": "Lamborghini",
+      "color": "orchid",
+      "fuel": "Diesel",
+      "registrationNumber": "UC39TKW"
+    },
+    {
+      "id": "debfff48aca4c895923cf10c",
+      "model": "Malibu",
+      "manufacturer": "Mazda",
+      "color": "lime",
+      "fuel": "Gasoline",
+      "registrationNumber": "IG19TAN"
+    },
+    {
+      "id": "1b5dcec05830aa47b4c03a30",
+      "model": "V90",
+      "manufacturer": "Kia",
+      "color": "sky blue",
+      "fuel": "Electric",
+      "registrationNumber": "JW36FWL"
+    },
+    {
+      "id": "1616e44cf036dd9a38f6bc46",
+      "model": "Mercielago",
+      "manufacturer": "Dodge",
+      "color": "lime",
+      "fuel": "Diesel",
+      "registrationNumber": "YI95CES"
+    },
+    {
+      "id": "3afc5d8a8fd3c6d66ae7afbf",
+      "model": "Cruze",
+      "manufacturer": "Porsche",
+      "color": "gold",
+      "fuel": "Gasoline",
+      "registrationNumber": "MN42CTP"
+    },
+    {
+      "id": "df9bfba658a73eb52f2d1392",
+      "model": "Jetta",
+      "manufacturer": "Porsche",
+      "color": "pink",
+      "fuel": "Diesel",
+      "registrationNumber": "ZC05FRK"
+    },
+    {
+      "id": "9ddc06a3d7eafa0fdad042fb",
+      "model": "F-150",
+      "manufacturer": "Aston Martin",
+      "color": "orchid",
+      "fuel": "Gasoline",
+      "registrationNumber": "CX86XLS"
+    },
+    {
+      "id": "f32aecfbd2dacffd7eceffa7",
+      "model": "ATS",
+      "manufacturer": "Jeep",
+      "color": "cyan",
+      "fuel": "Gasoline",
+      "registrationNumber": "JI78NHL"
+    },
+    {
+      "id": "d95efbd9fecefcdebdcdfb52",
+      "model": "Roadster",
+      "manufacturer": "Jeep",
+      "color": "indigo",
+      "fuel": "Diesel",
+      "registrationNumber": "GN92ZIW"
+    },
+    {
+      "id": "e8e6de5d2d99b4f2d501ea26",
+      "model": "Prius",
+      "manufacturer": "Polestar",
+      "color": "fuchsia",
+      "fuel": "Diesel",
+      "registrationNumber": "BW85QVY"
+    },
+    {
+      "id": "3b1fd6b1f2acfbbdee4758e5",
+      "model": "XTS",
+      "manufacturer": "Land Rover",
+      "color": "cyan",
+      "fuel": "Electric",
+      "registrationNumber": "PU74CHM"
+    },
+    {
+      "id": "d1cae81ecaa625e7a7c2e78c",
+      "model": "Volt",
+      "manufacturer": "Aston Martin",
+      "color": "maroon",
+      "fuel": "Gasoline",
+      "registrationNumber": "JT10WPE"
+    },
+    {
+      "id": "ddc0c0c1c236f84a214f6beb",
+      "model": "Ranchero",
+      "manufacturer": "Aston Martin",
+      "color": "turquoise",
+      "fuel": "Diesel",
+      "registrationNumber": "BQ30FQG"
+    },
+    {
+      "id": "4d5aac036cf8c89ef867c83f",
+      "model": "XTS",
+      "manufacturer": "Dodge",
+      "color": "azure",
+      "fuel": "Hybrid",
+      "registrationNumber": "QI17MZF"
+    },
+    {
+      "id": "cbf0e5a114ec03fbfb1d5dcb",
+      "model": "Mustang",
+      "manufacturer": "Chrysler",
+      "color": "violet",
+      "fuel": "Hybrid",
+      "registrationNumber": "XV58MDE"
+    },
+    {
+      "id": "d8723ab491ac91ed3a4fdac7",
+      "model": "Silverado",
+      "manufacturer": "Chrysler",
+      "color": "sky blue",
+      "fuel": "Hybrid",
+      "registrationNumber": "XK64BAL"
+    },
+    {
+      "id": "d4d930fcdc6d5f4d5b43fbc9",
+      "model": "Roadster",
+      "manufacturer": "Cadillac",
+      "color": "grey",
+      "fuel": "Hybrid",
+      "registrationNumber": "SX23YNA"
+    },
+    {
+      "id": "6ecff082dbacd90abcbd064f",
+      "model": "XC90",
+      "manufacturer": "Tesla",
+      "color": "magenta",
+      "fuel": "Gasoline",
+      "registrationNumber": "YA07OFD"
+    },
+    {
+      "id": "e6efcb0eaadca609fc67d0f3",
+      "model": "Sentra",
+      "manufacturer": "Aston Martin",
+      "color": "lavender",
+      "fuel": "Electric",
+      "registrationNumber": "PW49XSU"
+    },
+    {
+      "id": "9dfcc3e4fbcde8f4719f8caa",
+      "model": "Ranchero",
+      "manufacturer": "Volkswagen",
+      "color": "fuchsia",
+      "fuel": "Electric",
+      "registrationNumber": "MS77ABM"
+    },
+    {
+      "id": "72bdfdd6580bb0b3beccdc4b",
+      "model": "Cruze",
+      "manufacturer": "Honda",
+      "color": "olive",
+      "fuel": "Gasoline",
+      "registrationNumber": "ZT14WIX"
+    },
+    {
+      "id": "4de83bc2930da2bcff3e5a95",
+      "model": "ATS",
+      "manufacturer": "Dodge",
+      "color": "teal",
+      "fuel": "Electric",
+      "registrationNumber": "TJ32OWN"
+    },
+    {
+      "id": "0fefbb0ff7fafee29f2ede07",
+      "model": "Element",
+      "manufacturer": "Rolls Royce",
+      "color": "blue",
+      "fuel": "Hybrid",
+      "registrationNumber": "VN81OBE"
+    },
+    {
+      "id": "08b6a141f88f33610feafa98",
+      "model": "CTS",
+      "manufacturer": "Aston Martin",
+      "color": "pink",
+      "fuel": "Diesel",
+      "registrationNumber": "GB29ANN"
+    },
+    {
+      "id": "65dafdcddcaf4028b3aec5e6",
+      "model": "Jetta",
+      "manufacturer": "Chrysler",
+      "color": "silver",
+      "fuel": "Electric",
+      "registrationNumber": "GS23FMB"
+    },
+    {
+      "id": "5b2cff3ed3cfbb5322aebf7c",
+      "model": "2",
+      "manufacturer": "Jaguar",
+      "color": "gold",
+      "fuel": "Gasoline",
+      "registrationNumber": "CY69FSR"
+    },
+    {
+      "id": "9c20b8e1054eaa9ca00ac390",
+      "model": "CTS",
+      "manufacturer": "Mini",
+      "color": "ivory",
+      "fuel": "Hybrid",
+      "registrationNumber": "FW04TWM"
+    },
+    {
+      "id": "a1f0e1f1e50fca4be1a71e65",
+      "model": "Wrangler",
+      "manufacturer": "Volvo",
+      "color": "lime",
+      "fuel": "Diesel",
+      "registrationNumber": "GE86KNC"
+    },
+    {
+      "id": "18e8ed8c87f99f5a2f680b7e",
+      "model": "CTS",
+      "manufacturer": "Polestar",
+      "color": "indigo",
+      "fuel": "Gasoline",
+      "registrationNumber": "HJ80HFB"
+    },
+    {
+      "id": "ecffc8afabca0be29e5df2d6",
+      "model": "Altima",
+      "manufacturer": "Audi",
+      "color": "magenta",
+      "fuel": "Hybrid",
+      "registrationNumber": "NU52TVC"
+    },
+    {
+      "id": "cf3ebcd4ff2e9d2ef0165fc7",
+      "model": "Escalade",
+      "manufacturer": "Mazda",
+      "color": "orchid",
+      "fuel": "Gasoline",
+      "registrationNumber": "SM10IZA"
+    },
+    {
+      "id": "cb9abdf7582c25a990bd5c21",
+      "model": "Element",
+      "manufacturer": "Jaguar",
+      "color": "lime",
+      "fuel": "Hybrid",
+      "registrationNumber": "EQ64JHQ"
+    },
+    {
+      "id": "41f68ea7dde18cacaea626f1",
+      "model": "Corvette",
+      "manufacturer": "Dodge",
+      "color": "red",
+      "fuel": "Gasoline",
+      "registrationNumber": "DI94PNV"
+    },
+    {
+      "id": "ea7db1d9e9aae0899a8baa36",
+      "model": "Roadster",
+      "manufacturer": "Kia",
+      "color": "orange",
+      "fuel": "Diesel",
+      "registrationNumber": "ZD60DVP"
+    },
+    {
+      "id": "22aa3e6bfe265ea3af8cf9bc",
+      "model": "Model T",
+      "manufacturer": "Jeep",
+      "color": "sky blue",
+      "fuel": "Gasoline",
+      "registrationNumber": "IS69RED"
+    },
+    {
+      "id": "0bccafffd6dba3d9b3bacaee",
+      "model": "Roadster",
+      "manufacturer": "Kia",
+      "color": "plum",
+      "fuel": "Electric",
+      "registrationNumber": "ME25YZZ"
+    },
+    {
+      "id": "bef0e84c74fa89dedcd3f5cc",
+      "model": "911",
+      "manufacturer": "Chrysler",
+      "color": "fuchsia",
+      "fuel": "Gasoline",
+      "registrationNumber": "NY79KEZ"
+    },
+    {
+      "id": "cff280fa1bcc113f12f5c896",
+      "model": "Civic",
+      "manufacturer": "Jaguar",
+      "color": "magenta",
+      "fuel": "Hybrid",
+      "registrationNumber": "WR32CZQ"
+    },
+    {
+      "id": "b295bbf38d80fbe6ef2adfff",
+      "model": "Malibu",
+      "manufacturer": "Honda",
+      "color": "purple",
+      "fuel": "Gasoline",
+      "registrationNumber": "WL38GVK"
+    },
+    {
+      "id": "eb59cf963c3e2e55b871dfb5",
+      "model": "LeBaron",
+      "manufacturer": "Volkswagen",
+      "color": "red",
+      "fuel": "Hybrid",
+      "registrationNumber": "YA25IGK"
+    },
+    {
+      "id": "dea125463cbfaec81a75ead1",
+      "model": "Mercielago",
+      "manufacturer": "Toyota",
+      "color": "magenta",
+      "fuel": "Gasoline",
+      "registrationNumber": "BD90VBH"
+    },
+    {
+      "id": "7ccfcfc44e9bafcdc1951637",
+      "model": "XC90",
+      "manufacturer": "Lamborghini",
+      "color": "red",
+      "fuel": "Electric",
+      "registrationNumber": "CT41AOC"
+    },
+    {
+      "id": "dce8a6f72d332b5bfed5891f",
+      "model": "1",
+      "manufacturer": "Rolls Royce",
+      "color": "maroon",
+      "fuel": "Gasoline",
+      "registrationNumber": "AX56FQI"
+    },
+    {
+      "id": "d6a3eb74ddb87a1bc1e202de",
+      "model": "Model T",
+      "manufacturer": "Cadillac",
+      "color": "olive",
+      "fuel": "Diesel",
+      "registrationNumber": "NO69XJA"
+    },
+    {
+      "id": "3f71cac7cf6ae4edc1b690e9",
+      "model": "Wrangler",
+      "manufacturer": "Bentley",
+      "color": "fuchsia",
+      "fuel": "Hybrid",
+      "registrationNumber": "CX78SFN"
+    },
+    {
+      "id": "b092e467efe1a1636ca3f00f",
+      "model": "Charger",
+      "manufacturer": "Toyota",
+      "color": "yellow",
+      "fuel": "Gasoline",
+      "registrationNumber": "HC88QBU"
+    },
+    {
+      "id": "c768fea189e6d0cfcad60e35",
+      "model": "Prius",
+      "manufacturer": "Mini",
+      "color": "lime",
+      "fuel": "Diesel",
+      "registrationNumber": "QR69AAZ"
+    },
+    {
+      "id": "71d9d0678cdb701bfb154df0",
+      "model": "Volt",
+      "manufacturer": "Volvo",
+      "color": "olive",
+      "fuel": "Electric",
+      "registrationNumber": "HW74FFD"
+    },
+    {
+      "id": "ad2ed0fb5aa61bd7aa98a5ef",
+      "model": "Grand Cherokee",
+      "manufacturer": "Polestar",
+      "color": "white",
+      "fuel": "Gasoline",
+      "registrationNumber": "XG73COJ"
+    },
+    {
+      "id": "f6d4739fc77bbdce3c4ac13d",
+      "model": "Model 3",
+      "manufacturer": "Cadillac",
+      "color": "pink",
+      "fuel": "Hybrid",
+      "registrationNumber": "EH83BZZ"
+    },
+    {
+      "id": "bfd4df2b6a3fcdecf1cfbfda",
+      "model": "Model Y",
+      "manufacturer": "Hyundai",
+      "color": "orchid",
+      "fuel": "Gasoline",
+      "registrationNumber": "ST01MXY"
+    },
+    {
+      "id": "3b4f814576cdb82e241fca06",
+      "model": "Escalade",
+      "manufacturer": "Polestar",
+      "color": "silver",
+      "fuel": "Diesel",
+      "registrationNumber": "TX50LDJ"
+    },
+    {
+      "id": "ed7be215fb2c699a3bdfece5",
+      "model": "Impala",
+      "manufacturer": "BMW",
+      "color": "plum",
+      "fuel": "Gasoline",
+      "registrationNumber": "EX69ITL"
+    },
+    {
+      "id": "54eba76f4baabe63ccecfee6",
+      "model": "Mustang",
+      "manufacturer": "Cadillac",
+      "color": "purple",
+      "fuel": "Diesel",
+      "registrationNumber": "FZ80GPS"
+    },
+    {
+      "id": "adb5edcd4dafc1a6ed81a98e",
+      "model": "Malibu",
+      "manufacturer": "Chrysler",
+      "color": "fuchsia",
+      "fuel": "Hybrid",
+      "registrationNumber": "OP87XRK"
+    },
+    {
+      "id": "3fd770e5ac072ae8068cd9cc",
+      "model": "2",
+      "manufacturer": "Kia",
+      "color": "orchid",
+      "fuel": "Electric",
+      "registrationNumber": "TX66TDW"
+    },
+    {
+      "id": "ccdd7f43d13cabd5ccce566d",
+      "model": "Model X",
+      "manufacturer": "Porsche",
+      "color": "orange",
+      "fuel": "Hybrid",
+      "registrationNumber": "QP75MJX"
+    },
+    {
+      "id": "c68ab72c8bf58198b4b79131",
+      "model": "CTS",
+      "manufacturer": "Mini",
+      "color": "purple",
+      "fuel": "Diesel",
+      "registrationNumber": "SB41SWI"
+    },
+    {
+      "id": "e1afcbb5ab18afedd1bc6a8f",
+      "model": "XTS",
+      "manufacturer": "Mini",
+      "color": "purple",
+      "fuel": "Diesel",
+      "registrationNumber": "OD29XTZ"
+    },
+    {
+      "id": "4b3e10ebfcaf890ab2faf7bb",
+      "model": "Sentra",
+      "manufacturer": "Rolls Royce",
+      "color": "turquoise",
+      "fuel": "Gasoline",
+      "registrationNumber": "CE10IDI"
+    },
+    {
+      "id": "b612b1858ff1bccf8c462e7a",
+      "model": "Charger",
+      "manufacturer": "Jeep",
+      "color": "indigo",
+      "fuel": "Hybrid",
+      "registrationNumber": "KS33ZVF"
+    },
+    {
+      "id": "b8fd7a12acde948f11cedc7e",
+      "model": "CTS",
+      "manufacturer": "Hyundai",
+      "color": "gold",
+      "fuel": "Diesel",
+      "registrationNumber": "MW62DIH"
+    },
+    {
+      "id": "d455bfcff27fde6b22af7338",
+      "model": "Model 3",
+      "manufacturer": "Honda",
+      "color": "magenta",
+      "fuel": "Gasoline",
+      "registrationNumber": "ES46PBG"
+    },
+    {
+      "id": "d6822860ecfe19a9b08bcd7d",
+      "model": "XC90",
+      "manufacturer": "Dodge",
+      "color": "purple",
+      "fuel": "Gasoline",
+      "registrationNumber": "OH08KOJ"
+    },
+    {
+      "id": "f441d47a82c2ddeafd8c3ba4",
+      "model": "Alpine",
+      "manufacturer": "Mazda",
+      "color": "sky blue",
+      "fuel": "Hybrid",
+      "registrationNumber": "RS58FKU"
+    },
+    {
+      "id": "9ac54ddcbfd17b04fe5a58cc",
+      "model": "Escalade",
+      "manufacturer": "Volkswagen",
+      "color": "cyan",
+      "fuel": "Hybrid",
+      "registrationNumber": "AV26JUU"
+    },
+    {
+      "id": "cbb4ce8e42d9de105adf2c1d",
+      "model": "Grand Cherokee",
+      "manufacturer": "Audi",
+      "color": "orchid",
+      "fuel": "Electric",
+      "registrationNumber": "NK16IHU"
+    },
+    {
+      "id": "c736dedafafe6602f5cbf6f1",
+      "model": "Malibu",
+      "manufacturer": "Porsche",
+      "color": "orange",
+      "fuel": "Electric",
+      "registrationNumber": "BA18BSV"
+    },
+    {
+      "id": "a7e9ee6a947bb6a1f2beae3d",
+      "model": "Prius",
+      "manufacturer": "Chrysler",
+      "color": "indigo",
+      "fuel": "Electric",
+      "registrationNumber": "IA84CBF"
+    },
+    {
+      "id": "66ab95607dc4bfeaa76e778e",
+      "model": "A8",
+      "manufacturer": "Audi",
+      "color": "olive",
+      "fuel": "Diesel",
+      "registrationNumber": "DF96DBM"
+    },
+    {
+      "id": "d2b8ee4ac28f8b6eaeb9f37f",
+      "model": "Aventador",
+      "manufacturer": "Audi",
+      "color": "green",
+      "fuel": "Diesel",
+      "registrationNumber": "JO38OMA"
+    },
+    {
+      "id": "f3aafb284fc0a858eccabe5c",
+      "model": "Model S",
+      "manufacturer": "Rolls Royce",
+      "color": "olive",
+      "fuel": "Hybrid",
+      "registrationNumber": "JS72JTF"
+    },
+    {
+      "id": "bfddfa128c3ef6ebf84aff2b",
+      "model": "Model T",
+      "manufacturer": "Aston Martin",
+      "color": "fuchsia",
+      "fuel": "Electric",
+      "registrationNumber": "BB29YCY"
+    },
+    {
+      "id": "1cdd25aaeb3adccd63d380ff",
+      "model": "Alpine",
+      "manufacturer": "Rolls Royce",
+      "color": "sky blue",
+      "fuel": "Gasoline",
+      "registrationNumber": "NL63DGS"
+    },
+    {
+      "id": "c06abea2ae16aeab5a9ece93",
+      "model": "Focus",
+      "manufacturer": "Mercedes Benz",
+      "color": "black",
+      "fuel": "Hybrid",
+      "registrationNumber": "BU98MNC"
+    },
+    {
+      "id": "ca80f18d6c9ef0a481ee314c",
+      "model": "CX-9",
+      "manufacturer": "Honda",
+      "color": "cyan",
+      "fuel": "Electric",
+      "registrationNumber": "LS52BZO"
+    },
+    {
+      "id": "51ae2b0d75fcfadd1ef3aea5",
+      "model": "Fiesta",
+      "manufacturer": "Mercedes Benz",
+      "color": "cyan",
+      "fuel": "Electric",
+      "registrationNumber": "QV36IUR"
+    },
+    {
+      "id": "aa6eec553c31a27abb0a567a",
+      "model": "Colorado",
+      "manufacturer": "Nissan",
+      "color": "fuchsia",
+      "fuel": "Hybrid",
+      "registrationNumber": "SL17NRQ"
+    },
+    {
+      "id": "dcbf29a72d5913b1fc965abb",
+      "model": "Model S",
+      "manufacturer": "Aston Martin",
+      "color": "silver",
+      "fuel": "Diesel",
+      "registrationNumber": "AV38SVB"
+    },
+    {
+      "id": "d553a05b5095ea3f3b6a647b",
+      "model": "Altima",
+      "manufacturer": "Tesla",
+      "color": "magenta",
+      "fuel": "Gasoline",
+      "registrationNumber": "IW68UQB"
+    },
+    {
+      "id": "f126b38a8d668cbedc16ca3b",
+      "model": "Grand Caravan",
+      "manufacturer": "Maserati",
+      "color": "plum",
+      "fuel": "Diesel",
+      "registrationNumber": "AQ65TXM"
+    },
+    {
+      "id": "b3d0fb19b5d37aabf5af3b4a",
+      "model": "ATS",
+      "manufacturer": "Chevrolet",
+      "color": "gold",
+      "fuel": "Gasoline",
+      "registrationNumber": "YL07JYW"
+    },
+    {
+      "id": "4af723f3f2b4ea02add8552d",
+      "model": "ATS",
+      "manufacturer": "Dodge",
+      "color": "fuchsia",
+      "fuel": "Diesel",
+      "registrationNumber": "ZU79AQS"
+    },
+    {
+      "id": "a52a3c842c308c8beff2b914",
+      "model": "Challenger",
+      "manufacturer": "Rolls Royce",
+      "color": "black",
+      "fuel": "Hybrid",
+      "registrationNumber": "YN66DDV"
+    },
+    {
+      "id": "5a90dfd473b1ecb7bf8a608c",
+      "model": "Taurus",
+      "manufacturer": "Jaguar",
+      "color": "pink",
+      "fuel": "Diesel",
+      "registrationNumber": "RN95QVB"
+    },
+    {
+      "id": "474a30b4bf1f29e396e5800a",
+      "model": "Countach",
+      "manufacturer": "Jaguar",
+      "color": "fuchsia",
+      "fuel": "Electric",
+      "registrationNumber": "XG43ACQ"
+    },
+    {
+      "id": "bd869cb5ce60eb976799ccb8",
+      "model": "F-150",
+      "manufacturer": "Volvo",
+      "color": "sky blue",
+      "fuel": "Electric",
+      "registrationNumber": "TB34NTA"
+    },
+    {
+      "id": "b6d9fdaa94bd0cca336d9f7a",
+      "model": "Aventador",
+      "manufacturer": "Audi",
+      "color": "teal",
+      "fuel": "Hybrid",
+      "registrationNumber": "MC91GJO"
+    },
+    {
+      "id": "ecc1f3a59cea6ecebee3bcde",
+      "model": "Taurus",
+      "manufacturer": "Jaguar",
+      "color": "mint green",
+      "fuel": "Gasoline",
+      "registrationNumber": "ZH10RRK"
+    },
+    {
+      "id": "f0e473dfd5fc15b5da3efbde",
+      "model": "Ranchero",
+      "manufacturer": "Fiat",
+      "color": "plum",
+      "fuel": "Electric",
+      "registrationNumber": "SA52EBU"
+    },
+    {
+      "id": "c4f4ad5b0cdfcefc62ed130b",
+      "model": "A4",
+      "manufacturer": "BMW",
+      "color": "green",
+      "fuel": "Gasoline",
+      "registrationNumber": "YY54GDC"
+    },
+    {
+      "id": "27e1433bbff8e70ce2c21c9f",
+      "model": "Beetle",
+      "manufacturer": "Ford",
+      "color": "indigo",
+      "fuel": "Electric",
+      "registrationNumber": "WS16VPX"
+    },
+    {
+      "id": "f8fae2e0caf4430eccab665e",
+      "model": "Model T",
+      "manufacturer": "Rolls Royce",
+      "color": "lavender",
+      "fuel": "Hybrid",
+      "registrationNumber": "BX83NJR"
+    },
+    {
+      "id": "2acb323a0885c0ad5b0ce86a",
+      "model": "Charger",
+      "manufacturer": "Fiat",
+      "color": "grey",
+      "fuel": "Electric",
+      "registrationNumber": "TJ98QWU"
+    },
+    {
+      "id": "761d95ee1bb6649d415cfee3",
+      "model": "XTS",
+      "manufacturer": "Porsche",
+      "color": "yellow",
+      "fuel": "Hybrid",
+      "registrationNumber": "JI41FWF"
+    },
+    {
+      "id": "aa64d89bc872cbec38a9c00c",
+      "model": "Escalade",
+      "manufacturer": "Aston Martin",
+      "color": "olive",
+      "fuel": "Gasoline",
+      "registrationNumber": "AE34AVH"
+    },
+    {
+      "id": "633c09b60f12571ca71e6a4f",
+      "model": "Fiesta",
+      "manufacturer": "Chevrolet",
+      "color": "teal",
+      "fuel": "Gasoline",
+      "registrationNumber": "ZK70KEJ"
+    },
+    {
+      "id": "99ad86c3ed3e9dd95db6bb5d",
+      "model": "Mustang",
+      "manufacturer": "Rolls Royce",
+      "color": "purple",
+      "fuel": "Diesel",
+      "registrationNumber": "GH32MEA"
+    },
+    {
+      "id": "bfce6ddec1f0f7bfee044f70",
+      "model": "XC90",
+      "manufacturer": "Bugatti",
+      "color": "tan",
+      "fuel": "Electric",
+      "registrationNumber": "GV31LRH"
+    },
+    {
+      "id": "8f8329c246c9e9c4faf24190",
+      "model": "Explorer",
+      "manufacturer": "Jeep",
+      "color": "orange",
+      "fuel": "Electric",
+      "registrationNumber": "WI33IXG"
+    },
+    {
+      "id": "865aba8162ceea7dfb4bedbb",
+      "model": "Model T",
+      "manufacturer": "Polestar",
+      "color": "orchid",
+      "fuel": "Gasoline",
+      "registrationNumber": "KX42VOB"
+    },
+    {
+      "id": "dcbdddeba55d6ee6a513dfaa",
+      "model": "Accord",
+      "manufacturer": "Ford",
+      "color": "tan",
+      "fuel": "Gasoline",
+      "registrationNumber": "JQ14CAK"
+    },
+    {
+      "id": "f5ff10c2cef8f46ebb1ae0c8",
+      "model": "Model T",
+      "manufacturer": "Hyundai",
+      "color": "yellow",
+      "fuel": "Hybrid",
+      "registrationNumber": "QU16VSR"
+    },
+    {
+      "id": "b7ade69340cab3dabce52cea",
+      "model": "LeBaron",
+      "manufacturer": "Mercedes Benz",
+      "color": "lavender",
+      "fuel": "Diesel",
+      "registrationNumber": "LS80XPN"
+    },
+    {
+      "id": "bfb73f8ae3aea8b97918bbde",
+      "model": "Sentra",
+      "manufacturer": "Ford",
+      "color": "plum",
+      "fuel": "Diesel",
+      "registrationNumber": "DR54DKN"
+    },
+    {
+      "id": "bc7d34bced7bea82ebbded4b",
+      "model": "Impala",
+      "manufacturer": "Kia",
+      "color": "orchid",
+      "fuel": "Diesel",
+      "registrationNumber": "XP17EPN"
+    },
+    {
+      "id": "daaccb63f83cf3e83c7bceb6",
+      "model": "Explorer",
+      "manufacturer": "Chrysler",
+      "color": "blue",
+      "fuel": "Diesel",
+      "registrationNumber": "RR88ULV"
+    },
+    {
+      "id": "bb86cbf24bdd4bb2fadade1a",
+      "model": "Land Cruiser",
+      "manufacturer": "Hyundai",
+      "color": "plum",
+      "fuel": "Diesel",
+      "registrationNumber": "OZ99TUE"
+    },
+    {
+      "id": "da7aeb650498f0b8cc3c261a",
+      "model": "Volt",
+      "manufacturer": "Polestar",
+      "color": "olive",
+      "fuel": "Gasoline",
+      "registrationNumber": "BA54UPR"
+    },
+    {
+      "id": "de8ceef7123e580c1a4fec12",
+      "model": "Countach",
+      "manufacturer": "Kia",
+      "color": "magenta",
+      "fuel": "Hybrid",
+      "registrationNumber": "JP04AOR"
+    },
+    {
+      "id": "248ba3addba6411bdb89c13c",
+      "model": "Prius",
+      "manufacturer": "Polestar",
+      "color": "lavender",
+      "fuel": "Gasoline",
+      "registrationNumber": "VD11SOM"
+    },
+    {
+      "id": "18ab9a5e39cefcdad3feebec",
+      "model": "Land Cruiser",
+      "manufacturer": "Volvo",
+      "color": "turquoise",
+      "fuel": "Gasoline",
+      "registrationNumber": "SR89KVX"
+    },
+    {
+      "id": "983191c7bdc6a90270cdd6dc",
+      "model": "CX-9",
+      "manufacturer": "Honda",
+      "color": "yellow",
+      "fuel": "Electric",
+      "registrationNumber": "ZP00ZEF"
+    },
+    {
+      "id": "fe044684f3acbf21acbd29ad",
+      "model": "Wrangler",
+      "manufacturer": "Fiat",
+      "color": "blue",
+      "fuel": "Diesel",
+      "registrationNumber": "IT73III"
+    },
+    {
+      "id": "ebaaffdd817e75ce0aae4f8e",
+      "model": "Escalade",
+      "manufacturer": "Nissan",
+      "color": "tan",
+      "fuel": "Hybrid",
+      "registrationNumber": "EC77PFH"
+    },
+    {
+      "id": "34d5534aa9bee1feadfd3feb",
+      "model": "Aventador",
+      "manufacturer": "Mercedes Benz",
+      "color": "olive",
+      "fuel": "Hybrid",
+      "registrationNumber": "WZ68XUX"
+    },
+    {
+      "id": "1babba3f5f92d3fd57adcdec",
+      "model": "Camaro",
+      "manufacturer": "Ferrari",
+      "color": "lime",
+      "fuel": "Gasoline",
+      "registrationNumber": "TS61YYD"
+    },
+    {
+      "id": "ab2757e11cb6cedae321b3aa",
+      "model": "Explorer",
+      "manufacturer": "Audi",
+      "color": "ivory",
+      "fuel": "Electric",
+      "registrationNumber": "SB38QNA"
+    },
+    {
+      "id": "57ad59ebba7ce14d0342bae6",
+      "model": "Escalade",
+      "manufacturer": "Aston Martin",
+      "color": "maroon",
+      "fuel": "Electric",
+      "registrationNumber": "CX87PWN"
+    },
+    {
+      "id": "6da56f1dbc964154dddf8e53",
+      "model": "Focus",
+      "manufacturer": "Volvo",
+      "color": "violet",
+      "fuel": "Electric",
+      "registrationNumber": "DS68ZIM"
+    },
+    {
+      "id": "953d0dba2fa04d51f2be73bd",
+      "model": "Element",
+      "manufacturer": "Porsche",
+      "color": "cyan",
+      "fuel": "Gasoline",
+      "registrationNumber": "ZU54BOA"
+    },
+    {
+      "id": "0af13df84ff8debfe5fbccec",
+      "model": "CTS",
+      "manufacturer": "Hyundai",
+      "color": "yellow",
+      "fuel": "Hybrid",
+      "registrationNumber": "MA12YBF"
+    },
+    {
+      "id": "54b83e71acd8aadd5d6c0433",
+      "model": "Grand Caravan",
+      "manufacturer": "BMW",
+      "color": "blue",
+      "fuel": "Electric",
+      "registrationNumber": "BB40MYV"
+    },
+    {
+      "id": "067cf7025d8066dad3a5a838",
+      "model": "A8",
+      "manufacturer": "Tesla",
+      "color": "turquoise",
+      "fuel": "Electric",
+      "registrationNumber": "YJ10CLF"
+    },
+    {
+      "id": "f9e6fbaebe9e4c52cb2c4057",
+      "model": "Explorer",
+      "manufacturer": "Smart",
+      "color": "black",
+      "fuel": "Hybrid",
+      "registrationNumber": "JZ22XND"
+    },
+    {
+      "id": "ec1a746c1bcbc7fade521d39",
+      "model": "911",
+      "manufacturer": "Jeep",
+      "color": "teal",
+      "fuel": "Hybrid",
+      "registrationNumber": "HO96YAS"
+    },
+    {
+      "id": "77efc7aecf02d5d1fc90fa6e",
+      "model": "Alpine",
+      "manufacturer": "Fiat",
+      "color": "olive",
+      "fuel": "Electric",
+      "registrationNumber": "YG55ZLN"
+    },
+    {
+      "id": "fe71d89ceceb0c9ecbbf9e9d",
+      "model": "Aventador",
+      "manufacturer": "Rolls Royce",
+      "color": "maroon",
+      "fuel": "Electric",
+      "registrationNumber": "JD81ITZ"
+    },
+    {
+      "id": "7fdbd96ada5ca971ca0c2556",
+      "model": "A4",
+      "manufacturer": "Rolls Royce",
+      "color": "maroon",
+      "fuel": "Hybrid",
+      "registrationNumber": "AF58HMT"
+    },
+    {
+      "id": "4caf708ccb24fee02808c50e",
+      "model": "Element",
+      "manufacturer": "Dodge",
+      "color": "lime",
+      "fuel": "Hybrid",
+      "registrationNumber": "OA12PFU"
+    },
+    {
+      "id": "f3f4c965ebdc63f74a2e55a7",
+      "model": "Prius",
+      "manufacturer": "Bugatti",
+      "color": "mint green",
+      "fuel": "Electric",
+      "registrationNumber": "TH35OBZ"
+    },
+    {
+      "id": "f7eddbf030ed8d5f83fbb3f8",
+      "model": "Malibu",
+      "manufacturer": "Volkswagen",
+      "color": "lime",
+      "fuel": "Electric",
+      "registrationNumber": "TF43ZYG"
+    },
+    {
+      "id": "9befe60baca4faaa50addc55",
+      "model": "V90",
+      "manufacturer": "Mazda",
+      "color": "sky blue",
+      "fuel": "Diesel",
+      "registrationNumber": "JD09ACV"
+    },
+    {
+      "id": "35938b7aacf11d51d20db8a8",
+      "model": "Fiesta",
+      "manufacturer": "Smart",
+      "color": "salmon",
+      "fuel": "Hybrid",
+      "registrationNumber": "EY10TLW"
+    },
+    {
+      "id": "8f7d8601e11baf3ce6cd06dd",
+      "model": "Wrangler",
+      "manufacturer": "Porsche",
+      "color": "salmon",
+      "fuel": "Gasoline",
+      "registrationNumber": "KZ12XOF"
+    },
+    {
+      "id": "f0cdbd10fecfc011b373c124",
+      "model": "1",
+      "manufacturer": "Mazda",
+      "color": "tan",
+      "fuel": "Hybrid",
+      "registrationNumber": "LJ64GLT"
+    },
+    {
+      "id": "e4ec944dbeda0eea50abde0d",
+      "model": "Charger",
+      "manufacturer": "Jaguar",
+      "color": "azure",
+      "fuel": "Diesel",
+      "registrationNumber": "EL95JQH"
+    },
+    {
+      "id": "6f085e7d5f9dc7f1e26e95e6",
+      "model": "Grand Cherokee",
+      "manufacturer": "Tesla",
+      "color": "violet",
+      "fuel": "Hybrid",
+      "registrationNumber": "EX43FMW"
+    },
+    {
+      "id": "72ddc643dec5a7e00bc4b10a",
+      "model": "Prius",
+      "manufacturer": "Ferrari",
+      "color": "plum",
+      "fuel": "Electric",
+      "registrationNumber": "XQ85DXV"
+    },
+    {
+      "id": "4a2a4ee60cbaee49be3dbd36",
+      "model": "Golf",
+      "manufacturer": "Toyota",
+      "color": "lavender",
+      "fuel": "Electric",
+      "registrationNumber": "MS19CKZ"
+    },
+    {
+      "id": "fbef00bb7a2e0fd39ce6b89e",
+      "model": "Durango",
+      "manufacturer": "Jeep",
+      "color": "blue",
+      "fuel": "Electric",
+      "registrationNumber": "EH67DKN"
+    },
+    {
+      "id": "3afe0bdcd9b2a4af8ae0cbcf",
+      "model": "Golf",
+      "manufacturer": "Cadillac",
+      "color": "tan",
+      "fuel": "Diesel",
+      "registrationNumber": "ER55WBR"
+    }
+  ]
